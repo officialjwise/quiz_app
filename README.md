@@ -16,8 +16,7 @@ cd android
 
 - You will see different variants of SHA keys. debug, release, profile etc.
 - Now, which one is being used depends on which signingConfig we have set in
-  android/app/build.gradle, you can find more about this in
-  app [documentation](https://wrteamdev.github.io/Elite_Quiz_Doc/#:~:text=SHA%20keys%20and%20Keystore%20Basics).
+  android/app/build.gradle. 
 - Copy the correct variants both SHA keys and add in your firebase project.
 
 ## If Running the app for IoS, do this before
@@ -64,9 +63,6 @@ pubspec.lock
 ```
 
 #### To build the release version of the app (for Play Store)
-
-Note: Steps with images are given
-in [documentation](https://wrteamdev.github.io/Elite_Quiz_Doc/#:~:text=SHA%20keys%20and%20Keystore%20Basics)
 
 - you will need to first create a new keystore for the app.
 - And sign the app with it, also add the SHA keys (of keystore) in firebase.
