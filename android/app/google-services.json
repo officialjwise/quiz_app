@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "48104514245",
+    "project_id": "quiz-app-ea6db",
+    "storage_bucket": "quiz-app-ea6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48104514245:android:a9cd875643326d9a6f06ac",
+        "android_client_info": {
+          "package_name": "com.jwise.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48104514245-1cp8agu57co7ttenocs9pb020qv48jjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqjh5BxFryjXqEqvcgUOKiHTq34ELOJL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48104514245-1cp8agu57co7ttenocs9pb020qv48jjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48104514245-jt2knl006ppjk8auvspi0bc6n0bclujl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jwise.quiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
